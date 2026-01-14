@@ -49,8 +49,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/ai-canvas.git
-cd ai-canvas
+git clone https://github.com/chatfire-AI/huobao-canvas.git
+cd huobao-canvas
 
 # 安装依赖
 pnpm install
